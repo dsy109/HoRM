@@ -1,0 +1,20 @@
+# Default NAMESPACE created by R
+# Remove the previous line if you edit this file
+
+# Export all names
+exportPattern(".")
+
+# Import all packages listed as Imports or Depends
+import(
+  ggplot2,
+  MASS,
+  orthopolynom,
+  rsm,
+  quantmod,
+  stats4
+)
+
+# Import from
+  importFrom("stats", "hatvalues", "pf", "residuals", "rstudent",
+             "summary.manova", "anova", "lm", "pchisq", "qf")
+  importFrom("utils", "head", "tail")

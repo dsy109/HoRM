@@ -1,0 +1,20 @@
+#######################################
+2019-04-24 (Version 0.1.2)
+#######################################
+*Fixed formatting issue in the 'JamesBond' dataset.
+
+#######################################
+2017-03-10 (Version 0.1.1)
+#######################################
+*Imported the rsm package since the odor dataset was originally saved as a coded
+ dataframe for running a response surface analysis.
+*Fixed typos in the documentation.
+
+#######################################
+2017-01-27 (Version 0.1.0)
+#######################################
+*The 'HoRM' package is officially launched.  This package is a supplement for the book 
+ "Handbook of Regression Methods" by Derek S. Young.  It is also used with the Shiny app 
+ for the book, located at https://shiny.as.uky.edu/HoRM/.  It is not anticipated that 
+ the HoRM package will be updated very much.   New versions of the package will primarily be 
+ released if there are updates made to the Shiny app or compatibility issues arise.
