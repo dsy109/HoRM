@@ -2,7 +2,7 @@ Package: HoRM
 Type: Package
 Title: Supplemental Functions and Datasets for "Handbook of Regression Methods"
 Version: 0.1.3
-Date: 2019-04-24
+Date: 2021-03-10
 Authors@R: c(person("Derek S.", "Young", role = c("aut", "cre"),
 	email = "derek.young@uky.edu"))
 Depends: R (>= 3.5.0)
