@@ -55,7 +55,7 @@ GPL (>= 2)
 As contributors and maintainers of this project, we pledge to respect all people who 
 contribute through reporting issues, posting feature requests, updating documentation, 
 submitting pull requests or patches, and other activities.  Both contributors and 
-maintainer must consistently demonstrate acceptable behavior, respectful communications, 
+maintainers must consistently demonstrate acceptable behavior, respectful communications, 
 and professional conduct.  Project maintainers have the right and responsibility to remove, 
 edit, or reject comments, commits, code, wiki edits, issues, and other contributions that 
 are not aligned to this Code of Conduct.  Project maintainers who do not follow the 
