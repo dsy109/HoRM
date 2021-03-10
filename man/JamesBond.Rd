@@ -32,8 +32,8 @@ data(JamesBond)
 }
 \source{Young, D. S. (2014), Bond. James Bond. A Statistical Look at Cinema's Most Famous Spy, \emph{CHANCE},
   \bold{27}(2), 21--27.
- 
-\source{Young, D. S. (2019), Bond. James Bond. A Statistical Look at Cinema's Most Famous Spy (\emph{The Best of CHANCE Issue}), \emph{Chance},
+
+Young, D. S. (2019), Bond. James Bond. A Statistical Look at Cinema's Most Famous Spy (\emph{The Best of CHANCE Issue}), \emph{Chance},
   \bold{32}(1), 27--35.
 }
 \references{

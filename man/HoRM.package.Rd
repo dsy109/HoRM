@@ -12,7 +12,7 @@ Various wrapper functions and datasets to supplement examples for the book "Hand
 \tabular{ll}{
 Package: \tab HoRM\cr
 Type: \tab Package\cr
-Version: \tab 0.1.2\cr
+Version: \tab 0.1.3\cr
 Date: \tab 2019-04-24\cr
 Imports: \tab ggplot2, MASS, orthopolynom, quantmod, rsm, stats4\cr
 License: \tab GPL (>= 2)\cr
