@@ -1,8 +1,6 @@
 ## HoRM: Supplemental Functions and Datasets for "Handbook of Regression Methods"	
 
-[![Build Status](https://travis-ci.org/RcppCore/Rcpp.svg)](https://travis-ci.org/RcppCore/Rcpp)
 [![Lifecycle: stable](https://img.shields.io/badge/lifecycle-stable-brightgreen.svg)](https://lifecycle.r-lib.org/articles/stages.html#stable)	
-[![CI](https://github.com/RcppCore/Rcpp/workflows/ci/badge.svg)](https://github.com/RcppCore/Rcpp/actions?query=workflow%3Aci)
 ![CRAN/METACRAN](https://img.shields.io/cran/l/HoRM)	
 [![CRAN status](https://www.r-pkg.org/badges/version/HoRM)](https://CRAN.R-project.org/package=HoRM)
 [![Dependencies](https://tinyverse.netlify.com/badge/HoRM)](https://cran.r-project.org/package=HoRM)
