@@ -4,7 +4,7 @@
 ![CRAN/METACRAN](https://img.shields.io/cran/l/HoRM)	
 [![CRAN status](https://www.r-pkg.org/badges/version/HoRM)](https://CRAN.R-project.org/package=HoRM)
 [![Dependencies](https://tinyverse.netlify.com/badge/HoRM)](https://cran.r-project.org/package=HoRM)
-![GitHub last commit](https://img.shields.io/github/last-commit/dsy109/HoRM)
+![GitHub last commit](https://img.shields.io/github/last-commit/dsy109/HoRM)(https://github.com/dsy109/HoRM)
 [![Downloads](https://cranlogs.r-pkg.org/badges/HoRM?color=brightgreen)](https://www.r-pkg.org/pkg/HoRM)
 [![Shiny](https://img.shields.io/badge/Shiny-HoRM-brightgreen)](https://horm.as.uky.edu/)
 [![Book](https://img.shields.io/badge/HoRM__Book-ISBN%209781498775298-brightgreen)](https://www.routledge.com/Handbook-of-Regression-Methods/Young/p/book/9781498775298)
