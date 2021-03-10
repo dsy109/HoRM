@@ -1,4 +1,4 @@
-## HoRM: Supplemental Functions and Datasets for "Handbook of Regression Methods"	
+## HoRM: Supplemental Functions and Datasets for "Handbook of Regression Methods"	<a href='https://github.com/dsy109/HoRM'><img src='man/figures/HoRM.png' align="right" height="138.5" /></a>
 
 [![Lifecycle: stable](https://img.shields.io/badge/lifecycle-stable-brightgreen.svg)](https://lifecycle.r-lib.org/articles/stages.html#stable)	
 ![CRAN/METACRAN](https://img.shields.io/cran/l/HoRM)	
@@ -49,3 +49,23 @@ Derek S.  Young
 ### License
 
 GPL (>= 2)
+
+### Code of Conduct
+
+As contributors and maintainers of this project, we pledge to respect all people who 
+contribute through reporting issues, posting feature requests, updating documentation, 
+submitting pull requests or patches, and other activities.  Both contributors and 
+maintainer must consistently demonstrate acceptable behavior, respectful communications, 
+and professional conduct.  Project maintainers have the right and responsibility to remove, 
+edit, or reject comments, commits, code, wiki edits, issues, and other contributions that 
+are not aligned to this Code of Conduct.  Project maintainers who do not follow the 
+Code of Conduct may be removed from the project team.  Instances of abusive, harassing, 
+or otherwise unacceptable behavior may be reported by opening an issue or contacting one 
+or more of the project maintainers.  By contributing to this project, you agree to abide 
+by its terms.
+
+We are here for a love of coding and a passion for cultivating knowledge.  Let us enjoy 
+this collaboration together!
+
+
+
