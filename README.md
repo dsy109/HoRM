@@ -21,7 +21,7 @@ Other highlights:
 
 ### Documentation
 
-The book _Handbook of Regression Methods_ provides documentation about the HoRM package.  Moreover, the [help file](https://cran.r-project.org/web/packages/HoRM/HoRM.pdf) also documents the original sources for each dataset.
+The book _Handbook of Regression Methods_ provides documentation about the HoRM package.  Moreover, the [help file](https://CRAN.R-project.org/package=HoRM) also documents the original sources for each dataset.
 
 ### Examples
 
