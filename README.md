@@ -17,7 +17,7 @@ Other highlights:
 
 - Includes 21 real datasets, each of which is analyzed in the book _Handbook of Regression Methods_.
 
-- Inclcudes some original functions, such as for the regressogram and power functions for the general linear F-test.
+- Includes some original functions, such as for the regressogram and power functions for the general linear F-test.
 
 ### Documentation
 
