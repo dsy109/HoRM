@@ -21,7 +21,7 @@ attach(arsenate)
 out.ls <- lm(aes ~ aas)
 out.ls
 confint(out.ls)
-out.ts <- thielsen(aes ~ aas)
+out.ts <- theilsen(aes ~ aas)
 out.ts
 out.pb <- pbreg(aes ~ aas)
 out.pb
