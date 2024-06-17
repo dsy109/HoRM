@@ -3,7 +3,7 @@
 [![Lifecycle: stable](https://img.shields.io/badge/lifecycle-stable-brightgreen.svg)](https://lifecycle.r-lib.org/articles/stages.html#stable)	
 ![CRAN/METACRAN](https://img.shields.io/cran/l/HoRM)	
 [![CRAN status](https://www.r-pkg.org/badges/version/HoRM)](https://CRAN.R-project.org/package=HoRM)
-[![Dependencies](https://tinyverse.netlify.com/badge/HoRM)](https://cran.r-project.org/package=HoRM)
+[![Dependencies](https://tinyverse.netlify.app/badge/HoRM)](https://cran.r-project.org/package=HoRM)
 ![GitHub last commit](https://img.shields.io/github/last-commit/dsy109/HoRM)
 [![Downloads](https://cranlogs.r-pkg.org/badges/HoRM?color=brightgreen)](https://www.r-pkg.org/pkg/HoRM)
 [![Shiny](https://img.shields.io/badge/Shiny-HoRM-brightgreen)](https://horm.as.uky.edu/)
